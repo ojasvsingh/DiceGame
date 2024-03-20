@@ -10,6 +10,12 @@
 
 }
 
+.btn.roll{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 body {
   background-color: #393E46;
 }
@@ -39,3 +45,4 @@ footer {
   font-family: 'Indie Flower', cursive;
 
 }
+
